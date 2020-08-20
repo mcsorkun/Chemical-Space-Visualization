@@ -1,5 +1,5 @@
-# Chemical Space Visualization
-A simple code for visualization of chemical space of give material dataset. The code requires two columns from datasets (formula and prototype). Prototypes define the structure of materials (like space-groups).
+# Chemical Space Visualization for Materials
+A simple code for the visualization of chemical space of a given material dataset. The code requires two columns (formula and prototype) from the dataset. Prototypes are categorical references of structures (like space-groups).
 
 
 ![alt text](https://raw.githubusercontent.com/mcsorkun/Chemical-Space-Visualization/master/images/chemical_space.png)
